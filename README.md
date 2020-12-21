@@ -16,3 +16,38 @@ Wechat MiniProgram을 이용하여 유학생의 학내 식당, 카페에서의 �
 - [x] 정지영
 - [x] 우승제
 - [x] 황채환
+
+## Requirements
+### Front installation
+> Wechat Miniprogram developer tools
+
+### 관리자 페이지 installation
+> npm install request
+++
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.14",
+    "morgan": "^1.10.0"
+    "nodemon": "^2.0.6"
+    
+### Server installation
+> "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.14",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
