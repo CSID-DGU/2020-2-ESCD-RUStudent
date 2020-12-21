@@ -7,6 +7,8 @@ Wechat MiniProgram을 이용하여 유학생의 학내 식당, 카페에서의 �
 
 ## 개발 도구
 Wechat MiniProgram Developer Tools
+Node.js
+Express
 
 ## RUstudent 팀원
 - [x] 서예현
